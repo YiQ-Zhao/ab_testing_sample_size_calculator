@@ -1,4 +1,4 @@
-# A/B Test Sample Size Calculator :bar_chart: :chart_with_upwards_trend::chart_with_downwards_trend:
+# A/B Test Sample Size Calculator :bar_chart::chart_with_upwards_trend::chart_with_downwards_trend:
 Contributors: [Kunal Kotian](https://github.com/kunal-kotian), [Thy Khue (Maise) Ly](https://github.com/maisely), [Yiqiang Zhao](https://github.com/YiQ-Zhao) 
 ## Overview
 **How many sample size do I need for my A/B test?**
